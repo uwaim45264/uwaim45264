@@ -56,6 +56,14 @@ Here are some of my most exciting and creative repositories:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwaim45264&layout=compact&theme=radical" width="45%" />
 </p>
 
+
+## 📊 Contribution Graph & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwaim45264&theme=radical" width="48%" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uwaim45264&theme=github-compact" />
+</p>
 ---
 
 ## 🌐 Connect with Me
