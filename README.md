@@ -70,7 +70,7 @@ Here are some of my most exciting and creative repositories:
 
 - 📧 Email: [uwaim45264@gmail.com](mailto:uwaim45264@gmail.com)
 - 🧑‍💻 Portfolio: [Coming Soon]
-- 🔗 LinkedIn: [LinkedIn Profile](#) (optional)
+- 🔗 LinkedIn: [LinkedIn Profile](#)
 - 📱 Play Store: [Apps Coming Soon]
 
 ---
