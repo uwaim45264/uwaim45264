@@ -68,7 +68,7 @@ Here are some of my most exciting and creative repositories:
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [uwaim45264@gmail.com](mailto:uwaim45264@gmail.com)
+- 📧 Email: [unknownmuq@gmail.com](mailto:unknownmuq@gmail.com)
 - 🧑‍💻 Portfolio: [Coming Soon]
 - 🔗 LinkedIn: [LinkedIn Profile](#)
 - 📱 Play Store: [Apps Coming Soon]
