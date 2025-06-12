@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **passionate Flutter developer**, **problem 
 
 - 💼 **Flutter Developer** | Mobile & Desktop App Builder
 - 🧠 **AI, Image Processing, AR** Project Experience
-- 🎓 CS Student & Tech Explorer
+- 🎓 Software Engineering Student & Tech Explorer
 - 🎯 Currently building full-stack Flutter apps with Firebase, REST APIs, and more
 - ✨ Open to freelance, collabs, and community contributions!
 
