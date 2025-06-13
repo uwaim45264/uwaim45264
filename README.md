@@ -69,7 +69,7 @@ Here are some of my most exciting and creative repositories:
 ## 🌐 Connect with Me
 
 - 📧 Email: [unknownmuq@gmail.com](mailto:unknownmuq@gmail.com)
-- 🧑‍💻 Portfolio: [Protfolio](mailto:Muhammad_Uwaim_Qureshi_Portfolio.html)
+- 🧑‍💻 Portfolio: [Protfolio](Muhammad_Uwaim_Qureshi_Portfolio.html)
 - 🔗 LinkedIn: [LinkedIn Profile](#)
 - 📱 Play Store: [Apps Coming Soon]
 
