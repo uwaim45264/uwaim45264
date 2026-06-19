@@ -17,7 +17,7 @@ I'm a **software engineer & full-stack developer** passionate about building inn
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=uwaim45264&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
 ### 💫 Quick Facts
-- 🎓 **Final-year** Software Engineering Student
+- 🎓 Software Engineering 
 - 💼 Experienced **Freelance Developer** with multiple published apps
 - 🤖 Passionate about **AI/ML** and **AR** technologies
 - 🎨 UI/UX enthusiast with design thinking approach
